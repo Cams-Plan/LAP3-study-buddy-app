@@ -43,11 +43,11 @@
 
 Interested in a preview of how this app works?
 
-To take a look at this project live by clicking the text below.
+Take a look at this project live by clicking the text below.
 
 [__Studdy Buddy (Live)__](https://revision-app.onrender.com/)
 
-*Note: it's reployed on the free version of render so there may be a small delay when you first access the website*
+*Note: it's deployed on the free version of render so there may be a small delay when you first access the website*
 
 ### Key Features & Functionality
 
